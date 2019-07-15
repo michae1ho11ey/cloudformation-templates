@@ -1,0 +1,14 @@
+[
+  {
+    "ParameterKey": "VPCCidr",
+    "ParameterValue": "192.168.0.1/16"
+  },
+  {
+    "ParameterKey": "PublicCidr",
+    "ParameterValue": "192.168.1.1/24"
+  },
+  {
+    "ParameterKey": "PrivateCidr",
+    "ParameterValue": "192.168.2.1/24"
+  }
+]
